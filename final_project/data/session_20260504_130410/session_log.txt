@@ -1,0 +1,57 @@
+session_id=20260504_130410
+session_start_iso=2026-05-04T13:04:10.449642
+output_dir=C:\Users\kaori\Documents\260504_bubble_ML\data\20260504_130410
+free_disk_gb=77.9
+
+--- Recording config ---
+CHUNK_DURATION_SEC=1800
+CAM_ID=1
+SAVE_RAW_VIDEO=True
+SAVE_ALL_OVERLAY_VIDEO=True
+SAVE_SELECTED_OVERLAY_VIDEO=True
+
+--- Detection params ---
+HISTORY=500
+VAR_THRESHOLD=8
+MIN_AREA=8
+MAX_AREA=40
+ROI_MARGIN=10
+ROI_RADIUS_PARAM=230
+ROI_OFFSET_X=-40
+ROI_OFFSET_Y=-20
+DISPLAY_SHIFT=0
+
+--- Selection params ---
+RECT_DURATION=1.5
+POST_SUPPRESS_DELAY=1.0
+GLOBAL_SKIP_COUNT=20
+MAX_RECT_COUNT=6
+MIN_DIST_BETWEEN=400
+
+--- Group ranges ---
+  biwa: [0.0, 150.0)
+  koto: [210.0, 360.0)
+  kakko: [150.0, 170.0)
+  taiko: [170.0, 190.0)
+  shoko: [190.0, 210.0)
+[2026-05-04T13:04:11.014642] camera=640x480 @ 30.00fps
+[2026-05-04T13:04:11.135033] chunk_open id=1 t_rel=0.0
+[2026-05-04T13:34:11.152068] chunk_close id=1 all=31460 sel=623
+[2026-05-04T13:34:11.158050] chunk_open id=2 t_rel=1800.0
+[2026-05-04T14:04:11.180911] chunk_close id=2 all=2501 sel=668
+[2026-05-04T14:04:11.189440] chunk_open id=3 t_rel=3600.0
+[2026-05-04T14:34:11.207374] chunk_close id=3 all=4511 sel=658
+[2026-05-04T14:34:11.213363] chunk_open id=4 t_rel=5400.1
+[2026-05-04T15:04:11.227581] chunk_close id=4 all=2132 sel=613
+[2026-05-04T15:04:11.239306] chunk_open id=5 t_rel=7200.1
+[2026-05-04T15:34:11.234727] chunk_close id=5 all=21573 sel=605
+[2026-05-04T15:34:11.244964] chunk_open id=6 t_rel=9000.1
+[2026-05-04T16:04:11.274148] chunk_close id=6 all=2657 sel=665
+[2026-05-04T16:04:11.283220] chunk_open id=7 t_rel=10800.1
+[2026-05-04T16:34:11.286411] chunk_close id=7 all=6045 sel=679
+[2026-05-04T16:34:11.292284] chunk_open id=8 t_rel=12600.2
+[2026-05-04T17:04:11.305159] chunk_close id=8 all=1311 sel=441
+[2026-05-04T17:04:11.313251] chunk_open id=9 t_rel=14400.2
+[2026-05-04T17:30:59.977785] camera_read_failed
+[2026-05-04T17:30:59.998315] chunk_close id=9 all=14626 sel=449
+[2026-05-04T17:31:00.303141] session_end total_all=86816 total_sel=5401 chunks=9

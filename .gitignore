@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc 
+.ipynb/checkpoints/
+
+#movie
+*.mp4
+*.avi
+*.mov 
+*.wav
+
+# .done marker
+*.done
+
+# OS
+.DS_Store
+Thums.db
+
+# large wav files
+final_project/outputs/audio/*.wav
+
+# 動画 (大容量)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 音声出力 (大容量)
+*.wav
+
+# その他
+*.done
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,10 @@
+chunk_id,start_iso,end_iso,start_t_rel,end_t_rel,all_events_csv,selected_events_csv,raw_video,all_overlay_video,selected_overlay_video,n_all_events,n_selected
+1,2026-05-04T13:04:11.122027,2026-05-04T13:34:11.145097,0.000,1800.023,chunk_001_all_events.csv,chunk_001_selected_events.csv,chunk_001_raw.mp4,chunk_001_all_overlay.mp4,chunk_001_selected_overlay.mp4,31460,623
+2,2026-05-04T13:34:11.145097,2026-05-04T14:04:11.167914,1800.023,3600.046,chunk_002_all_events.csv,chunk_002_selected_events.csv,chunk_002_raw.mp4,chunk_002_all_overlay.mp4,chunk_002_selected_overlay.mp4,2501,668
+3,2026-05-04T14:04:11.167914,2026-05-04T14:34:11.200469,3600.046,5400.078,chunk_003_all_events.csv,chunk_003_selected_events.csv,chunk_003_raw.mp4,chunk_003_all_overlay.mp4,chunk_003_selected_overlay.mp4,4511,658
+4,2026-05-04T14:34:11.200469,2026-05-04T15:04:11.216742,5400.078,7200.095,chunk_004_all_events.csv,chunk_004_selected_events.csv,chunk_004_raw.mp4,chunk_004_all_overlay.mp4,chunk_004_selected_overlay.mp4,2132,613
+5,2026-05-04T15:04:11.216742,2026-05-04T15:34:11.227871,7200.095,9000.106,chunk_005_all_events.csv,chunk_005_selected_events.csv,chunk_005_raw.mp4,chunk_005_all_overlay.mp4,chunk_005_selected_overlay.mp4,21573,605
+6,2026-05-04T15:34:11.227871,2026-05-04T16:04:11.262134,9000.106,10800.140,chunk_006_all_events.csv,chunk_006_selected_events.csv,chunk_006_raw.mp4,chunk_006_all_overlay.mp4,chunk_006_selected_overlay.mp4,2657,665
+7,2026-05-04T16:04:11.262134,2026-05-04T16:34:11.276520,10800.140,12600.154,chunk_007_all_events.csv,chunk_007_selected_events.csv,chunk_007_raw.mp4,chunk_007_all_overlay.mp4,chunk_007_selected_overlay.mp4,6045,679
+8,2026-05-04T16:34:11.276520,2026-05-04T17:04:11.296268,12600.154,14400.174,chunk_008_all_events.csv,chunk_008_selected_events.csv,chunk_008_raw.mp4,chunk_008_all_overlay.mp4,chunk_008_selected_overlay.mp4,1311,441
+9,2026-05-04T17:04:11.296268,2026-05-04T17:30:59.977785,14400.174,16008.856,chunk_009_all_events.csv,chunk_009_selected_events.csv,chunk_009_raw.mp4,chunk_009_all_overlay.mp4,chunk_009_selected_overlay.mp4,14626,449
